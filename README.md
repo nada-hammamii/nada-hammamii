@@ -7,12 +7,4 @@
 
 # 💻 Tech Stack:
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nada-hammamii&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nada-hammamii&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nada-hammamii&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nada-hammamii&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
