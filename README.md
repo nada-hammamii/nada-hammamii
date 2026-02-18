@@ -3,11 +3,11 @@
 # Hi there!
 ## Welcome to my GitHub profile!
 
-I'm Nada Hammami, an Engineering graduate from INSAT, currently working as a Data Scientist at Supervizor. My passion lies in the field of AI, where I continually explore and engage with the latest advancements in Generative AI and Large Language Models. My interests cover both research and practical applications, enjoying the process of turning cutting-edge concepts into real-world solutions.
+I'm Nada Hammami, Engineering graduate from INSAT and Data Scientist at Supervizor, trying not to trip over my own code.
 
-I have hands-on experience in building ML/DL models across various domains and developing AI-powered applications. Additionally, I've worked extensively with Large Language Models (LLMs), including fine-tuning, prompt engineering, RAG systems, and deployment. On the practical side, I focus on delivering robust solutions that bridge the gap between research and production, ensuring scalability and real-world impact.
+I specialize in Generative AI & LLMs — fine-tuning models and shipping ML/DL applications that actually work in production. From experimentation to deployment, I love bridging the gap between research papers and real-world impact.
 
-Open to collaborating on interesting and innovative projects, or discussing anything related to AI, data science, and technology.
+Always down to collaborate on cool projects or geek out about AI! 
 
 </div>
 
