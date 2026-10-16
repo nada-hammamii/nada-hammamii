@@ -5,7 +5,7 @@
 
 I'm Nada, an engineering graduate from INSAT and a Data Scientist, trying not to trip over my own code.
 
-I specialize in Generative AI and agentic systems — building LLM agents, MCP servers and the evaluation and monitoring around them, then shipping it all to production.
+I specialize in Generative AI and agentic systems — from designing an LLM agent or an MCP server to evaluating it, monitoring it, and running it in production.
 
 Always down to collaborate on cool projects or geek out about AI! 
 
