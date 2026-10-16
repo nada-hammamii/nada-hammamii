@@ -3,7 +3,7 @@
 # Hi there!
 ## Welcome to my GitHub profile!
 
-I'm Nada, Engineering graduate from INSAT and Data Scientist, trying not to trip over my own code.
+I'm Nada, an engineering graduate from INSAT and a Data Scientist, trying not to trip over my own code.
 
 I specialize in Generative AI and agentic systems — building LLM agents, MCP servers and the evaluation and monitoring around them, then shipping it all to production.
 
