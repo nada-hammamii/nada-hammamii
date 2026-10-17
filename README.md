@@ -44,21 +44,14 @@ Always down to collaborate on cool projects or geek out about AI!
 <table align="center">
   <tr>
     <td align="center" width="220">
-      <a href="https://cloud.google.com/learn/certification/machine-learning-engineer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/googlecloud/googlecloud-original.svg" width="80" alt="Google Cloud"><br>
-        <b>Professional Machine Learning Engineer</b>
-      </a><br>
-      <sub>Google Cloud</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://cloud.google.com/learn/certification/generative-ai-leader">
+      <a href="https://www.credly.com/badges/0aeb4d30-ac2d-4214-a270-dd4c1e40b088/public_url">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/googlecloud/googlecloud-original.svg" width="80" alt="Google Cloud"><br>
         <b>Generative AI Leader</b>
       </a><br>
       <sub>Google Cloud</sub>
     </td>
     <td align="center" width="220">
-      <a href="https://www.coursera.org/learn/machine-learning">
+      <a href="https://www.coursera.org/account/accomplishments/verify/TQNFS53CGVA6">
         <img src="https://cdn.simpleicons.org/coursera/0056D2" width="80" alt="Coursera"><br>
         <b>Supervised Machine Learning</b>
       </a><br>
