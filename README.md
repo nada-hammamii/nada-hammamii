@@ -38,3 +38,31 @@ Always down to collaborate on cool projects or geek out about AI!
 **Tools**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
+## 📜 Certifications:
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://cloud.google.com/learn/certification/machine-learning-engineer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/googlecloud/googlecloud-original.svg" width="80" alt="Google Cloud"><br>
+        <b>Professional Machine Learning Engineer</b>
+      </a><br>
+      <sub>Google Cloud</sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://cloud.google.com/learn/certification/generative-ai-leader">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/googlecloud/googlecloud-original.svg" width="80" alt="Google Cloud"><br>
+        <b>Generative AI Leader</b>
+      </a><br>
+      <sub>Google Cloud</sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.coursera.org/learn/machine-learning">
+        <img src="https://cdn.simpleicons.org/coursera/0056D2" width="80" alt="Coursera"><br>
+        <b>Supervised Machine Learning</b>
+      </a><br>
+      <sub>DeepLearning.AI &amp; Stanford</sub>
+    </td>
+  </tr>
+</table>
