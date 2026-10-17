@@ -9,6 +9,8 @@ I specialize in Generative AI and agentic systems — from designing an LLM agen
 
 Always down to collaborate on cool projects or geek out about AI! 
 
+<sub><i>New here? Not exactly. My previous GitHub life lives at <a href="https://github.com/hammami-nada">hammami-nada</a> — I locked myself out of it, so this account is where the story continues.</i></sub>
+
 </div>
 
 ---
